@@ -36,6 +36,7 @@
 - **[Mycelium](https://mycelium.com/)** - A popular mobile wallet known for its advanced privacy features.
 - **[Trust Wallet](https://trustwallet.com/)** - An open-source mobile wallet supporting a wide range of cryptocurrencies.
 - **[Atomic Wallet](https://atomicwallet.io/)** - A multi-currency wallet with a built-in exchange and staking features.
+- **[Gem Wallet](https://gemwallet.io/)** - An open-source, multi-chain self-custody wallet built for speed, security, and simplicity.
 
 ## Hardware Wallets
 
